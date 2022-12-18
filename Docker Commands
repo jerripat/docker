@@ -1,0 +1,4 @@
+ 
+6e0a74530d91c466cb529e6c5043baf91d68e34b4b75c0bf347d98e1c74566d5
+Docker start:docker run -dit debian
+Determine running: docker ps
