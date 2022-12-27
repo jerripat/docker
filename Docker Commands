@@ -1,7 +1,0 @@
- 
-6e0a74530d91c466cb529e6c5043baf91d68e34b4b75c0bf347d98e1c74566d5
-Docker start:docker run -dit debian
-Determine running: docker ps
-Stop Docker: docker stop 6E0
-New docker container:
-95430331b17c5fb2c66e0c03f26e640c86ee8ceeced7dea043a2a7061082e356
